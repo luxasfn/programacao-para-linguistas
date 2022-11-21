@@ -2,7 +2,7 @@
 
 ## Plano de ensino
 
-###Professor responsável: Pablo Arantes
+### Professor responsável: Pablo Arantes
 
 ### Objetivos gerais:
 1. Apresentar para alunos dos cursos de Letras e Linguística noções básicas do funcionamento de um computador digita e de linguagens de programação.
