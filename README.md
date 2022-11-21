@@ -2,35 +2,35 @@
 
 ## Plano de ensino
 
-Professor responsável: Pablo Arantes
+###Professor responsável: Pablo Arantes
 
-Objetivos gerais:
+### Objetivos gerais:
 1. Apresentar para alunos dos cursos de Letras e Linguística noções básicas do funcionamento de um computador digita e de linguagens de programação.
 2. Discutir noções de algoritmos, pseudocódigo e representação de dados.
 3. Apresentar o paradigma da programação estruturada.
 4. Treinar o aluno a implementar análises linguística através de programas escritos em uma linguagem de programação.
 
-Ementa:
+### Ementa:
 O uso de técnicas computacionais para a análise de dados é uma crescente em diversas subdisciplinas da linguística. O curso consistira na exposição de algumas noções essenciais para o entendimento das linguagens de programação no contexto de pesquisa em linguística. O aluno será introduzido aos conceitos básicos necessários para o uso de diferentes linguagens de programação como ferramenta auxiliar na análise de dados linguísticos.
 
-Duração de tópicos:
+### Duração de tópicos:
 1. Noções básicas do funcionamento de um computador digital e de linguagens de programação. - 10 horas.
 2. Discutir noções de algoritmo, pseudocódigo e representação de dados. - 10 horas.
 3. Apresentar o paradigma da programação estruturada. - 10 horas.
 
-Objetivos específicos:
+### Objetivos específicos:
 
 1. Apresentar para alunos dos cursos de Letras e Linguística noções básicas do funcionamento de um computador digital e de linguagens de programação
 2. Discutir noções de algoritmo, pseudocódigo e representação de dados.
 3. Apresentar o paradigma da programação estruturada.
 4. Treinar o aluno a implementar análises linguística através de programas escritos em uma linguagem de programação.
 
-Estratégia de Ensino:
+### Estratégia de Ensino:
 Aulas expositivas.
-​Atividades práticas.
+Atividades práticas.
 Leitura e discussão de textos teóricos.
 
-Atividades dos alunos:
+### Atividades dos alunos:
 Leitura de textos.
 Exercícios de programação.
 Análise de código.
