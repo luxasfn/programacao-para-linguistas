@@ -4,9 +4,9 @@ https://www.pabloarantes.net/
 https://github.com/parantes
 https://www.dl.ufscar.br/menu-lateral/docentes-1/pablo-arantes
 
-# Plano de ensino
-# Tutoriais 
-# Exemplos
+Plano de ensino
+Tutoriais 
+Exemplos
 
 
 
