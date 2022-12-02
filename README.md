@@ -4,7 +4,7 @@ https://www.pabloarantes.net/
 https://github.com/parantes
 https://www.dl.ufscar.br/menu-lateral/docentes-1/pablo-arantes
 
-[Plano de ensino](https://link-url-here.org)
+[Plano de ensino](https://github.com/luxasfn/programacao-para-linguistas/wiki/Plano-de-ensino)
 Tutoriais 
 Exemplos
 
