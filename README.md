@@ -2,8 +2,9 @@
 ### Professor responsável: Pablo Arantes
 
 * [Plano de ensino](https://github.com/luxasfn/programacao-para-linguistas/wiki/Plano-de-ensino)
-* Tutoriais 
-* Exemplos
+* [Slides]()
+* [Tutoriais]() 
+* [Exemplos]()
 
 
 
