@@ -18,3 +18,4 @@ for (i in 1:6) {
 # mostra os resultados na tela
 cat("Quantidade de números pares: ", pares, "\n")
 cat("Quantidade de números ímpares: ", impares, "\n")
+

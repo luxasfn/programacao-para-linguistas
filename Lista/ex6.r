@@ -6,3 +6,6 @@ mensagem_antecessor <- paste("O antecessor de", numero, "é", antecessor) # cons
 mensagem_sucessor <- paste("O sucessor de", numero, "é", sucessor) # constrói a mensagem do sucessor
 cat(mensagem_antecessor, "\n") # exibe a mensagem do antecessor na tela
 cat(mensagem_sucessor, "\n") # exibe a mensagem do sucessor na tela
+
+
+

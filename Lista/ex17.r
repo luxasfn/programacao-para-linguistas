@@ -5,3 +5,6 @@ if (velocidade > 80) {
 } else {
   cat("Velocidade dentro do limite permitido.\n")
 }
+
+
+

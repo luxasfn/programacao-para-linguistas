@@ -9,3 +9,6 @@ valor_total <- valor_dias + valor_km
 
 # Mostra o resultado para o usuário
 cat("O valor total a pagar é R$", valor_total)
+
+
+

@@ -5,3 +5,4 @@ c <- as.numeric(readline("Digite o valor de C: ")) # lê o valor de C como um n�
 delta <- b^2 - 4*a*c # calcula o valor de delta
 mensagem <- paste("O valor de delta é", delta) # constrói a mensagem com o valor de delta
 cat(mensagem) # exibe a mensagem na tela
+

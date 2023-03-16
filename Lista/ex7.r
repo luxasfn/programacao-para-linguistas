@@ -6,3 +6,6 @@ mensagem_dobro <- paste("O dobro de", numero, "é", dobro) # constrói a mensage
 mensagem_terca_parte <- paste("A terça parte de", numero, "é", terca_parte) # constrói a mensagem da terça parte
 cat(mensagem_dobro, "\n") # exibe a mensagem do dobro na tela
 cat(mensagem_terca_parte, "\n") # exibe a mensagem da terça parte na tela
+
+
+

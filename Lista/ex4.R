@@ -1,3 +1,4 @@
+
 # Programa de soma em R
 valor1 <- as.integer(readline("Digite um valor: ")) # lê o primeiro valor como um número inteiro
 valor2 <- as.integer(readline("Digite outro valor: ")) # lê o segundo valor como um número inteiro

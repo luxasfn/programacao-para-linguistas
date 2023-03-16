@@ -4,3 +4,6 @@ nota2 <- as.numeric(readline("Nota 2: ")) # lê a segunda nota como um número d
 media <- (nota1 + nota2) / 2 # calcula a média das notas
 mensagem <- paste("A média entre", nota1, "e", nota2, "é igual a", media) # constrói a mensagem final
 cat(mensagem) # exibe a mensagem final na tela
+
+
+

@@ -10,3 +10,6 @@ mensagem_km <- paste("A distância de", dist_metros, "m corresponde a:", dist_km
 mensagem_hm <- paste(dist_hm, "Hm", dist_dam, "Dam", dist_metros, "m", dist_dm, "dm", dist_cm, "cm", dist_mm, "mm") # constrói a mensagem em outras unidades
 cat(mensagem_km, "\n") # exibe a mensagem em quilômetros na tela
 cat(mensagem_hm, "\n") # exibe a mensagem em outras unidades na tela
+
+
+

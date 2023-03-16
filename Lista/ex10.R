@@ -6,3 +6,6 @@ area_parede <- largura * altura # calcula a área da parede a ser pintada
 litros_tinta <- area_parede / area_tinta # calcula a quantidade de tinta necessária
 mensagem <- paste("Será necessário", litros_tinta, "litros de tinta para pintar", area_parede, "metros quadrados de parede.") # constrói a mensagem com a quantidade de tinta necessária
 cat(mensagem) # exibe a mensagem na tela
+
+
+
